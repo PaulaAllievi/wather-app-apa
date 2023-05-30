@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/public/image/1920x1080-px-animals-artwork-deer-Fire-Watch-forest-illustration-landscape-minimalism-mountains-pine-trees-1417383.jpeg);
+  background-repeat: no-repeat;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  opacity: 0.8;
+  padding: 30px;
+  border-radius: 4px;
+}
+
+img {
+  width: 80px;
+  margin-top: 10px;
+  border-radius: 50px;
+}

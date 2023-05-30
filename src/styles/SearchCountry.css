@@ -1,0 +1,14 @@
+.form {
+  margin-bottom: 28px;
+}
+input {
+  border-radius: 5px;
+  border-color: white;
+}
+button {
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(212, 237, 255);
+  border: white;
+  margin-left: 5px;
+}
